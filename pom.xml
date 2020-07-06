@@ -34,5 +34,6 @@
 		<module>springboot-dubbo-api</module>
 		<module>springboot-dubbo-provider</module>
 		<module>springboot-dubbo-consumer</module>
+		<module>springboot-dubbo-provider-merger</module>
 	</modules>
 </project>
